@@ -1,0 +1,129 @@
+id: I61B975F0
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-26T19:06:46+00:00'
+last_modified: '2022-06-08T10:48:53.580826+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W3PD188
+  title: གསུང་འབུམ། ཙོང་ཁ་པ།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
+  base:
+    DA91:
+      image_group_id: I3PD266
+      title: ''
+      total_pages: 788
+      order: 1
+      base_file: DA91.txt
+    C85C:
+      image_group_id: I3PD267
+      title: ''
+      total_pages: 742
+      order: 2
+      base_file: C85C.txt
+    F44C:
+      image_group_id: I3PD268
+      title: ''
+      total_pages: 792
+      order: 3
+      base_file: F44C.txt
+    8F6F:
+      image_group_id: I3PD269
+      title: ''
+      total_pages: 842
+      order: 4
+      base_file: 8F6F.txt
+    D66D:
+      image_group_id: I3PD270
+      title: ''
+      total_pages: 690
+      order: 5
+      base_file: D66D.txt
+    C55F:
+      image_group_id: I3PD271
+      title: ''
+      total_pages: 646
+      order: 6
+      base_file: C55F.txt
+    CAE9:
+      image_group_id: I3PD272
+      title: ''
+      total_pages: 658
+      order: 7
+      base_file: CAE9.txt
+    C2D4:
+      image_group_id: I3PD273
+      title: ''
+      total_pages: 722
+      order: 8
+      base_file: C2D4.txt
+    F293:
+      image_group_id: I3PD274
+      title: ''
+      total_pages: 698
+      order: 9
+      base_file: F293.txt
+    '3633':
+      image_group_id: I3PD275
+      title: ''
+      total_pages: 680
+      order: 10
+      base_file: 3633.txt
+    1DAF:
+      image_group_id: I3PD276
+      title: ''
+      total_pages: 658
+      order: 11
+      base_file: 1DAF.txt
+    7F4B:
+      image_group_id: I3PD277
+      title: ''
+      total_pages: 657
+      order: 12
+      base_file: 7F4B.txt
+    '4462':
+      image_group_id: I3PD278
+      title: ''
+      total_pages: 842
+      order: 13
+      base_file: 4462.txt
+    9CF6:
+      image_group_id: I3PD279
+      title: ''
+      total_pages: 758
+      order: 14
+      base_file: 9CF6.txt
+    E09F:
+      image_group_id: I3PD280
+      title: ''
+      total_pages: 682
+      order: 15
+      base_file: E09F.txt
+    A644:
+      image_group_id: I3PD281
+      title: ''
+      total_pages: 706
+      order: 16
+      base_file: A644.txt
+    F651:
+      image_group_id: I3PD282
+      title: ''
+      total_pages: 694
+      order: 17
+      base_file: F651.txt
+    483A:
+      image_group_id: I3PD283
+      title: ''
+      total_pages: 742
+      order: 18
+      base_file: 483A.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
